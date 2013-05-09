@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  meal: MyString
+  from: MyString
+  drink: MyString
+  dairy: MyString
+  calories: 1
+
+two:
+  meal: MyString
+  from: MyString
+  drink: MyString
+  dairy: MyString
+  calories: 1
